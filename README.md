@@ -1,2 +1,3 @@
 # Thinkful-Data-Science-Course
-Assignments and projects from the prep course and bootcamp
+1. bootcamp
+2. prep-course
